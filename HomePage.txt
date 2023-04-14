@@ -1,0 +1,4 @@
+After login to OrangeHRM "Welcome to OrangeHrm shold be display"
+<head>
+<h1>Welcome To OrangeHrm HomePage</h1>
+</head>
